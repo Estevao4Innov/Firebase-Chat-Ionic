@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "chat-ionic-67ffe": {
+      "hosting": {
+        "app": [
+          "chat-ionic-67ffe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "chat-ionic-67ffe"
+  }
+}
